@@ -85,7 +85,7 @@ This project demonstrates the creation of secure, explainable, and domain-contro
 ```bash
 cd backend
 python -m venv .venv
-source .venv/Scripts/activate  # (Windows)
+
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
