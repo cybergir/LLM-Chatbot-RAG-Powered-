@@ -47,17 +47,17 @@ This project demonstrates the creation of secure, explainable, and domain-contro
 
 ### Frontend:
 
- React 18+
- TailwindCSS / ShadCN UI
- Axios (API communication)
- Framer Motion (smooth UI animations)
+ - React 18+
+ - TailwindCSS / ShadCN UI
+ - Axios (API communication)
+ - Framer Motion (smooth UI animations)
 
 ### DevOps:
 
- Docker Compose
- .env Configuration
- GitHub Actions (optional CI/CD)
- Cloud-ready for AWS / GCP / Vercel
+ - Docker Compose
+ - .env Configuration
+ - GitHub Actions (optional CI/CD)
+ - Cloud-ready for AWS / GCP / Vercel
 
 ---
 
@@ -81,19 +81,22 @@ This project demonstrates the creation of secure, explainable, and domain-contro
 ## Installation
 
 # 1 Start backend
+
+```bash
 cd backend
 python -m venv .venv
 source .venv/Scripts/activate  # (Windows)
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+```
 
 # 2 Start frontend
+
+```bash
 cd ../frontend
 npm install
 npm run dev
 ```
-
----
 
 ## Testing
 
