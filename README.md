@@ -34,16 +34,16 @@ This project demonstrates the creation of secure, explainable, and domain-contro
 
 ### Backend:
 
- Python 3.10+
- FastAPI (async REST framework)
- LangChain (retrieval & chaining)
- ChromaDB / FAISS (vector search)
- SentenceTransformers / OpenAI Embeddings
- BeautifulSoup4 (web scraping)
- Pydantic (data validation)
- Uvicorn (ASGI server)
- pytest (testing)
- Docker
+ - Python 3.10+
+ - FastAPI (async REST framework)
+ - LangChain (retrieval & chaining)
+ - ChromaDB / FAISS (vector search)
+ - SentenceTransformers / OpenAI Embeddings
+ - BeautifulSoup4 (web scraping)
+ - Pydantic (data validation)
+ - Uvicorn (ASGI server)
+ - pytest (testing)
+ - Docker
 
 ### Frontend:
 
