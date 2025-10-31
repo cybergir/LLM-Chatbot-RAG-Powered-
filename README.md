@@ -18,15 +18,15 @@ This project demonstrates the creation of secure, explainable, and domain-contro
 
 ## Core Features
 
-✅ Retrieval-Augmented Generation (RAG) — grounded, fact-based responses
-✅ Knowledge Ingestion Pipeline — extract and embed text or web content
-✅ Vector Database Integration — efficient semantic search (FAISS/Chroma)
-✅ Citations in Responses — transparency for every generated answer
-✅ React Frontend Chat Interface — real-time Q&A experience
-✅ FastAPI REST Endpoints — clean, documented API for integration
-✅ Logging, Config & CORS Middleware — production-ready setup
-✅ Fully Dockerized — deploy anywhere easily
-✅ Unit Tests — for ingestion, retrieval, and chat pipelines
+- Retrieval-Augmented Generation (RAG) — grounded, fact-based responses
+- Knowledge Ingestion Pipeline — extract and embed text or web content
+- Vector Database Integration — efficient semantic search (FAISS/Chroma)
+- Citations in Responses — transparency for every generated answer
+- React Frontend Chat Interface — real-time Q&A experience
+- FastAPI REST Endpoints — clean, documented API for integration
+- Logging, Config & CORS Middleware — production-ready setup
+- Fully Dockerized — deploy anywhere easily
+- Unit Tests — for ingestion, retrieval, and chat pipelines
 
 ---
 
