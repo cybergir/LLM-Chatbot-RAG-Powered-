@@ -1,5 +1,3 @@
----
-
 # LLM Chatbot (RAG-Powered)
 
 ---
